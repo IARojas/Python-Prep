@@ -6,10 +6,15 @@
 # 1) A partir de una lista vacía, utilizar un ciclo while para cargar allí números negativos del -15 al -1
 
 # In[1]:
+numeros=[]
+i=-15
+while i<0:
+    numeros.append(i)
+    i+=1
+print(numeros)
 
-
-
-
+a=()
+print(type(a))
 
 # 2) ¿Con un ciclo while sería posible recorrer la lista para imprimir sólo los números pares?
 

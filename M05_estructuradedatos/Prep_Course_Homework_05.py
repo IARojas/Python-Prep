@@ -215,3 +215,14 @@ print(nuevodiccionario['ciudades'])
 
 
 # %%
+a=[1,2,3]
+a.append([4,5])
+print(a.index(2))
+# %%
+numeros=[1,2,3,4,5]
+for numero in numeros:
+    print(numero)
+# %%
+s='Python es genial'
+print(s[7:9])
+# %%

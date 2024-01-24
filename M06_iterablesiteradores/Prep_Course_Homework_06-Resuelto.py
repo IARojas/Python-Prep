@@ -14,7 +14,7 @@ while (n < 0):
     lista.append(n)
     n += 1
 print(lista)
-
+type(lista)
 
 # 2) ¿Con un ciclo while sería posible recorrer la lista para imprimir sólo los números pares?
 

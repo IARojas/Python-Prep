@@ -272,3 +272,8 @@ minimo_comun = min(elementos_comunes)
 print("El valor mínimo común entre divisibles por 9 y múltiplos de 6 es:", minimo_comun)
 
 # %%
+
+var=[1,2,3,4]
+var.insert(2,"a")
+print(var)
+# %%
